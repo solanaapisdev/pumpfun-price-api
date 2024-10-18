@@ -40,7 +40,7 @@ Looking for more APIs to integrate into your project? Explore our full suite of 
 
 We offer custom API solutions and development services tailored to your unique requirements. If you need assistance, or have a project in mind, feel free to reach out to us!
 
-- **Telegram**: [@solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [@solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 ---
