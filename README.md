@@ -21,7 +21,7 @@ Example JSON response:
   SOL: '0.0000000897', 
   USD: '0.0000137945' 
 }
-
+```
 ### 🔍 **Accurate, Real-Time Pricing**
 
 The **Pumpfun Price API** calculates token prices based on the current **BondingCurve** status, ensuring that every price you receive is always up-to-date and accurate. Whether you're integrating this API into a trading bot, a DeFi platform, or simply monitoring token prices, this API delivers reliable data every time you make a request.
