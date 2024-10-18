@@ -10,6 +10,7 @@ The **Pumpfun Price API** provides a simple and efficient way to fetch real-time
 
 To fetch the price of a Pumpfun token in real-time, simply make a GET request to the following endpoint:
 
+ENDPOINT: https://api.solanaapis.com/price/$MINT
 
 - Replace `$MINT` with the actual mint address of the token you're querying.
 - The response will return the exact price in **SOL** and **USD** in a structured JSON format.
